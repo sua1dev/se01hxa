@@ -57,9 +57,12 @@ portfolio: https://se01hxa.xyz
 
 <div align="center">
 
-<a href="https://github.com/se01hxa/sysfetch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=se01hxa&repo=sysfetch&theme=merko&hide_border=true" width="49%" />
-</a>
+**[📌 sysfetch](https://github.com/se01hxa/sysfetch)**
+<br/>
+A lightweight Neofetch/Fastfetch-style CLI tool written in Python.
+
+<img src="https://img.shields.io/github/stars/se01hxa/sysfetch?style=for-the-badge&color=F7B8D0&labelColor=1a1a1a" />
+<img src="https://img.shields.io/github/languages/top/se01hxa/sysfetch?style=for-the-badge&color=C9A7EB&labelColor=1a1a1a" />
 
 </div>
 
@@ -71,11 +74,11 @@ portfolio: https://se01hxa.xyz
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=se01hxa&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se01hxa&layout=compact&theme=merko&hide_border=true" width="38%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=se01hxa&theme=merko&hide_border=true" width="60%" />
 
+<br/>
+
+<img src="https://img.shields.io/github/followers/se01hxa?style=for-the-badge&color=F7B8D0&labelColor=1a1a1a&label=Followers" />
 <img src="https://komarev.com/ghpvc/?username=se01hxa&style=for-the-badge&color=c9a7eb&label=Profile+Views" />
 
 </div>
