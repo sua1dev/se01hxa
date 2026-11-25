@@ -1,106 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B8D0,100:C9A7EB&height=200&section=header&text=SeonA%20%C2%B7%20%E3%82%BB%E3%83%B3%E3%83%AF%E3%83%AC&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Discord%20Bot%20Developer%20%7C%20Frontend%20%C2%B7%20Design&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8ECF5,100:B8B5E8&height=180&section=header&text=SUA&fontSize=48&fontColor=182A4A&desc=Developer%20%26%20Maker&descAlignY=65" width="100%" alt="SUA — Developer & Maker" />
 
-<a href="https://se01hxa.xyz">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=C9A7EB&center=true&vCenter=true&width=560&height=45&lines=Hi%2C%20I%27m%20%EC%84%A0%EC%95%84%20%28SeonA%29%20%F0%9F%91%8B%3B%E3%82%BB%E3%83%B3%E3%83%AF%E3%83%AC%20%E2%9A%A1%20Discord%20Bot%20Developer%3BPython%20%C2%B7%20JS%20%C2%B7%20TS%20%C2%B7%20HTML%2FCSS%20%C2%B7%20Figma%3B%ED%95%98%EB%A3%A8%ED%95%98%EB%A3%A8%EB%A5%BC%20%ED%96%89%EB%B3%B5%ED%95%98%EA%B2%8C%20%EC%82%B4%EC%95%84%EA%B0%80%EB%8A%94%20%EC%A4%91%20%F0%9F%8C%BF" alt="Typing SVG" />
-</a>
+### 작은 아이디어를, 나만의 방식으로 현실에 ✦
 
-<br/>
-
-<a href="#about">About</a> ·
-<a href="#stack">Tech Stack</a> ·
-<a href="#projects">Projects</a> ·
-<a href="#stats">Stats</a> ·
-<a href="#contact">Contact</a>
+[Portfolio](https://intro-us.xyz/sua/) · [Projects](https://intro-us.xyz/sua/project) · [Blog](https://intro-us.xyz/sua/blog) · [GitHub](https://github.com/sua1dev)
 
 </div>
 
-<br/>
+## About
 
-<a name="about"></a>
+안녕하세요! 수아(Sua)입니다.
 
-### 🌸 About Me
+코드를 쓰고, 화면을 그리며 새로운 것을 만드는 일을 좋아합니다.
+Windows 앱부터 웹 서비스, Discord 봇까지 직접 만들고 다듬어 가고 있습니다.
 
-```yaml
-nickname : 선아 (SeonA) / センワレ
-focus    : Discord Bot · Frontend
-skills   : discord.py, Python, JavaScript, TypeScript, HTML, CSS, Figma
-currently: 하루하루를 행복하게 살아가는 중 🌿
-portfolio: https://se01hxa.xyz
-```
+## Experience
 
-<br/>
+| Community | Role | Since |
+| :--- | :--- | :--- |
+| [Team Light](https://github.com/Team-Light-Kr) | CEO | 2025.04.29 ~ 현재 |
+| B E D . C O M | 총관리자 | 2025.06.28 ~ 현재 |
+| PH봇 서포트 서버 | 스태프 | 2025.08.31 ~ 현재 |
+| 시야소프트.lab | 악성 유저 대응팀 / TS | 2026.07.23 ~ 현재 |
 
-<a name="stack"></a>
+## Skills & Tools
 
-### 🛠 Tech Stack
+**Development**
 
-**Languages & Bot**
+![Python](https://img.shields.io/badge/Python-EEF3F6?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-EEF3F6?style=flat-square&logo=javascript&logoColor=917500)
+![HTML](https://img.shields.io/badge/HTML-EEF3F6?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-EEF3F6?style=flat-square&logo=css&logoColor=663399)
+![discord.py](https://img.shields.io/badge/discord.py-EEF3F6?style=flat-square&logo=discord&logoColor=5865F2)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+**Design & AI**
 
-**Design & Markup**
+![Figma](https://img.shields.io/badge/Figma-EEF3F6?style=flat-square&logo=figma&logoColor=F24E1E)
+![Claude](https://img.shields.io/badge/Claude-EEF3F6?style=flat-square&logo=claude&logoColor=D97757)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-EEF3F6?style=flat-square)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+## Selected Projects
 
-<br/>
+| Project | Description | Explore |
+| :--- | :--- | :--- |
+| **Vexel** | Windows 코드 편집기 · Monaco, SSH/SFTP, AI & MCP | [Details](https://intro-us.xyz/sua/project#vexel) |
+| **Velora** | Windows 디자인 및 프로토타이핑 도구 · Design, Prototype, Motion | [Details](https://intro-us.xyz/sua/project#velora) |
+| **Hebi** | 방송과 콘텐츠 소식을 Discord로 전달하는 알림 서비스 | [Details](https://intro-us.xyz/sua/project#hebi) · [Website](https://hebi.se01hxa.xyz) |
+| **Orbit** | 세로 탭, 스페이스, 분할 화면과 자동 PIP를 지원하는 Windows 브라우저 | [Details](https://intro-us.xyz/sua/project#orbit) |
 
-<a name="projects"></a>
+[모든 프로젝트 보기](https://intro-us.xyz/sua/project) · [Cloner AI](https://intro-us.xyz/sua/AI) · [여울 OJ](https://intro-us.xyz/sua/oj/)
 
-### 📌 Pinned
+## GitHub
+
+[![Followers](https://img.shields.io/github/followers/sua1dev?style=flat-square&color=B8B5E8&label=Followers)](https://github.com/sua1dev?tab=followers)
+
+[Repositories](https://github.com/sua1dev?tab=repositories) · [Team Light](https://github.com/Team-Light-Kr)
+
+## Contact
+
+함께 만들고 싶은 것이 있거나 궁금한 이야기가 있다면 이메일로 편하게 연락해 주세요.
+
+- Portfolio: https://intro-us.xyz/sua/
+- Email: [sua.inquiry@gmail.com](mailto:sua.inquiry@gmail.com)
 
 <div align="center">
 
-**[📌 sysfetch](https://github.com/se01hxa/sysfetch)**
-<br/>
-A lightweight Neofetch/Fastfetch-style CLI tool written in Python.
+<sub>© 2026 SUA · LITTLE MOMENTS</sub>
 
-<img src="https://img.shields.io/github/stars/se01hxa/sysfetch?style=for-the-badge&color=F7B8D0&labelColor=1a1a1a" />
-<img src="https://img.shields.io/github/languages/top/se01hxa/sysfetch?style=for-the-badge&color=C9A7EB&labelColor=1a1a1a" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8B5E8,100:D8ECF5&height=85&section=footer" width="100%" alt="" />
 
 </div>
-
-<br/>
-
-<a name="stats"></a>
-
-### 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=se01hxa&theme=merko&hide_border=true" width="60%" />
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/se01hxa?style=for-the-badge&color=F7B8D0&labelColor=1a1a1a&label=Followers" />
-<img src="https://komarev.com/ghpvc/?username=se01hxa&style=for-the-badge&color=c9a7eb&label=Profile+Views" />
-
-</div>
-
-<br/>
-
-<a name="contact"></a>
-
-### 📫 Contact
-
-<div align="center">
-
-<a href="https://se01hxa.xyz">
-  <img src="https://img.shields.io/badge/Portfolio-se01hxa.xyz-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="mailto:dev.4nti@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-dev.4nti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/sx0n._a">
-  <img src="https://img.shields.io/badge/Instagram-%40sx0n._a-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:F7B8D0&height=100&section=footer" width="100%" />
